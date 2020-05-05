@@ -1,0 +1,12 @@
+{
+  "arkit_render_3d": "{0}/models/renders/arkit_render_3d",
+  "arkit_render_simp": "{0}/models/renders/arkit_render_simp",
+  "facewarehouse_render": "{0}/models/renders/facewarehouse_render",
+  "_0": "facewarehouse_tensor_solver is an ibug solver",
+  "facewarehouse_solver": "{0}/models/solvers/facewarehouse_solver",
+  "basel_render": "{0}/models/renders/basel_render",
+  "basel_solver": "{0}/models/solvers/basel_solver",
+  "pico": "{0}/detectors/face_detector_pico_calibrated",
+  "screaming.jpg": "{0}/tests/screaming.jpg",
+  "medium_regressor": "{0}/trackers/combined_cvg_final_regressor"
+}
